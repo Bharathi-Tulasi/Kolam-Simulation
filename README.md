@@ -6,6 +6,8 @@ rhombic_kolam.ipynb is a jupyter notebook for rhombic Kolam simulation.
 
 square_kolam.ipynb is a jupyter notebook for Navagraha(3x3 square) Kolam simulation.
 
+kolam sequences_abcd folder contains kolam sequences.
+
 To simulate square (nxn) Kolams, run square_kolam.ipynb.
 
 It will ask for number of dots. Enter 3 for Navagraha (3x3) Kolams.
