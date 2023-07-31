@@ -1,10 +1,10 @@
 # Kolam-Simulation
 
-kolam_shapes.py has functions for Kolam shapes
-rhombic_kolam.ipynb is a jupyter notebook for rhombic Kolam simulation
-square_kolam.ipynb is a jupyter notebook for Navagraha(3x3 square) Kolam simulation
+kolam_shapes.py has functions for Kolam shapes.
+rhombic_kolam.ipynb is a jupyter notebook for rhombic Kolam simulation.
+square_kolam.ipynb is a jupyter notebook for Navagraha(3x3 square) Kolam simulation.
 
-To simulate square (nxn) Kolams, run square_kolam.ipynb
+To simulate square (nxn) Kolams, run square_kolam.ipynb.
 It will ask for number of dots. Select 3 for Navagraha (3x3) Kolams.
 
 ![prompt_3x3_1](https://github.com/Bharathi-Tulasi/Kolam-Simulation/assets/121544324/85f00a20-4012-44cc-a20c-42b292b7e84d)
@@ -16,12 +16,12 @@ Select any Kolam from Navagraha sequences subfolder.
 ![prompt_3x3_sequence_1](https://github.com/Bharathi-Tulasi/Kolam-Simulation/assets/121544324/eb0017a6-876b-49c8-aac4-13b4df363bc9)
 
 
-To simulate rhombic (1-n-1) Kolams, run rhombic_kolam.ipynb
+To simulate rhombic (1-n-1) Kolams, run rhombic_kolam.ipynb.
 It will ask for number of dots. 
-Select 3 for 1-3-1 Kolams
-Select 5 for 1-5-1 Kolams
-Select 7 for 1-7-1 Kolams
-and so on
+Select 3 for 1-3-1 Kolams.
+Select 5 for 1-5-1 Kolams.
+Select 7 for 1-7-1 Kolams.
+and so on.
 
 ![prompt_1n1_1](https://github.com/Bharathi-Tulasi/Kolam-Simulation/assets/121544324/16141450-f628-422c-9b13-8584033058d7)
 
