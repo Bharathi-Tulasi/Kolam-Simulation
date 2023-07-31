@@ -41,4 +41,4 @@ Select any Kolam from Rhombic kolam sequences subfolder which has separate 1-3-1
 
 ![prompt_1n1_sequence_1](https://github.com/Bharathi-Tulasi/Kolam-Simulation/assets/121544324/be1a1070-c51f-459f-a9b5-7c2dc91314a6)
 
-If there is a problem or error or jupyter notebook is showing loading, interrupt the kernel and run it again. There is a problem with turtle library which is not solved by them yet.
+**If there is a problem or error or jupyter notebook is showing loading, interrupt the kernel and run it again. It is a workaround as there is a problem with turtle library which is not solved by them yet.**
