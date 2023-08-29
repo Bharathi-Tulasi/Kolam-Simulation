@@ -1,7 +1,6 @@
 # Kolam-Simulation
 
-
-![prompt 171 Kolam1 Simulation](https://github.com/Bharathi-Tulasi/Kolam-Simulation-using-Angles-at-Lattice-Points/assets/121544324/e4760b9b-af5a-4291-8874-4ef0ab8490c7)
+https://github.com/Bharathi-Tulasi/Kolam-Simulation-using-Angles-at-Lattice-Points/assets/121544324/e4760b9b-af5a-4291-8874-4ef0ab8490c7
 
 
 
